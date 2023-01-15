@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hozan77
-- 👀 I’m interested in computer science.
-- 🌱 I’m currently learning python.
+- 👋 Hi, I’m Hozan
+- 👀 I am interested in computer science, especially machine learning.
+- 🌱 I’m currently learning c++ and pytorch.
 - 📫 How to reach me; HOCET@ulaval.ca
 
 <!---
