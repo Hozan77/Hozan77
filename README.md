@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hozan
 - 👀 I am interested in mathematics, physics, computer science, especially machine learning & application development.
-- 🌱 I have skills in database, C++, C#, Python, HTML & CSS, Blazor & .NET .
-- 💻 I am currently working on two projects.
+- 🌱 I have skills in database, C++, C#, Python, HTML & CSS, SQL, Blazor & .NET .
+- 💻 I am currently working on one project.
 - 📚 Studying computer science at Laval University.
 - 👨🏻‍💻 Internship at Ministry of Justice Quebec
 - 📫 How to reach me; HOCET@ulaval.ca
