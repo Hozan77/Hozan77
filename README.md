@@ -3,7 +3,7 @@
 - 🌱 I have skills in database, C++, C#, Python, HTML & CSS, SQL, Blazor & .NET .
 - 💻 I am currently working on one project.
 - 📚 Studying computer science at Laval University.
-- 👨🏻‍💻 Internship at Ministry of Justice Quebec
+- 👨🏻‍💻 Internship at Ministry of Justice Quebec in 2023.
 - 📫 How to reach me; HOCET@ulaval.ca
 - ⏳ My projects and source codes will soon be available for download.
 
