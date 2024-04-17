@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Hozan
-- 👀 I am interested in mathematics, physics, computer science, especially machine learning & application development.
+- 👀 I am interested in mathematics, physics and computer science.
 - 🌱 I have skills in database (MySQL & ORACLE), C++, C#, Python, JavaScript, PHP, HTML & CSS, SQL, Blazor & .NET . 
-- 💻 I am currently working on one project.
+- 💻 I am currently working on two projects.
 - 📚 Studying computer science at Laval University.
 - 👨🏻‍💻 Internship at Ministry of Justice Quebec in 2023.
-- 📫 How to reach me; HOCET@ulaval.ca
+- 👨🏻‍💻 Internship at Ministry of Cybersecurity and Digital in 2024.
+- 📫 How to reach me: HOCET@ulaval.ca
 - ⏳ My projects and source codes will soon be available for download.
 
 
