@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Hozan
-- 👀 I am interested in mathematics, physics and computer science.
 - 🌱 I have skills in database (MySQL & ORACLE), C++, C#, Python, JavaScript, PHP, HTML & CSS, SQL, Blazor & .NET . 
 - 💻 I am currently working on two projects.
 - 📚 Studying computer science at Laval University.
