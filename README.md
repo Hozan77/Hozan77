@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hozan
-- 🌱 I have skills in database (MySQL & ORACLE), C++, C#, Python, JavaScript, PHP, HTML & CSS, SQL, Blazor & .NET . 
+- 🌱 I have skills in database (MySQL & ORACLE), C++, C#, Python, JavaScript, PHP, HTML & CSS, SQL, Blazor & .NET, Node.js, React.js, Laravel & MongoDB
 - 💻 I am currently working on two projects.
 - 📚 Studying computer science at Laval University.
 - 👨🏻‍💻 Internship at Ministry of Justice Quebec in 2023.
