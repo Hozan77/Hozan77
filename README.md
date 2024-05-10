@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hozan
 - 🌱 I have skills in database (MySQL & ORACLE), C++, C#, Python, JavaScript, PHP, HTML & CSS, SQL, Blazor & .NET, Node.js, React.js, Laravel & MongoDB
 - ☁ Currently using Azure & Azure DevOps.
-- 💻 I am currently working on two projects.
+- 👨🏻‍💻 I am currently working on two projects.
 - 📚 Studying computer science at Laval University.
 - 👨🏻‍💻 Internship at Ministry of Justice Quebec in 2023.
 - 👨🏻‍💻 Internship at Ministry of Cybersecurity and Digital in 2024.
