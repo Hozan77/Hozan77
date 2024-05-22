@@ -22,5 +22,3 @@ I am a passionate computer science student at Laval University, currently enhanc
 
 ### 📫 Contact
 - Email: [HOCET@ulaval.ca](mailto:HOCET@ulaval.ca)
-
-Feel free to reach out to me for collaborations, projects, or any queries. Stay tuned for my upcoming projects!
