@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Hozan
 
 ### 🌟 About Me
-I am a passionate computer science student at Laval University, currently enhancing my skills and working on exciting projects. I have a diverse set of technical skills and hands-on experience from internships in reputable institutions.
+I am a passionate computer science student at Laval University, currently enhancing my skills and working on exciting projects. I have a diverse set of technical skills and hands-on experience from internships.
 
 ### 🛠️ Skills
 - **Programming Languages:** C++, C#, Python, JavaScript, PHP, HTML & CSS
@@ -10,7 +10,7 @@ I am a passionate computer science student at Laval University, currently enhanc
 - **Cloud & DevOps:** Azure, Azure DevOps, AWS
 
 ### 🚀 Current Endeavors
-- Working on two significant projects, details and source codes will be available soon.
+- Working on three significant projects, details and source codes will be available soon.
 - Actively utilizing Azure and Azure DevOps for my development and deployment processes.
 
 ### 📚 Education
