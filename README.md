@@ -15,7 +15,7 @@ I am a passionate computer science student at Laval University, currently enhanc
 
 ### 📚 Education
 - Studying Computer Science at Laval University
-College diploma (cégep) in Natural Sciences with an engineering profile obtained at Cégep Garneau.
+- College diploma (cégep) in Natural Sciences with an engineering profile obtained at Cégep Garneau.
 
 ### 💼 Professional Experience
 - **Internship at Ministry of Justice Quebec (2023)**
