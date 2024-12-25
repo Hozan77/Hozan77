@@ -4,7 +4,7 @@
 I am a passionate computer science student at Laval University, currently enhancing my skills and working on exciting projects. I have a diverse set of technical skills and hands-on experience from internships.
 
 ### 🛠️ Skills
-- **Programming Languages:** C++, C#, Python, JavaScript, PHP, HTML & CSS
+- **Programming Languages:** C++, C#, Java, Python, JavaScript, PHP, HTML & CSS
 - **Frameworks & Libraries:** Blazor, .NET, Node.js, React.js, Laravel
 - **Databases:** MySQL, ORACLE, MongoDB
 - **Cloud & DevOps:** Azure, Azure DevOps, AWS, Docker, Pipeline
