@@ -11,7 +11,7 @@ I am a passionate computer science student at Laval University, currently enhanc
 
 ### 🚀 Current Endeavors
 - Working on three significant projects, details and source codes will be available soon.
-- Actively utilizing Azure and Azure DevOps for my development and deployment processes.
+- Actively utilizing AWS and Azure DevOps.
 
 ### 📚 Education
 - Studying Computer Science at Laval University
