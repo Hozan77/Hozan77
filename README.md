@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./hozan-logo-180.png" alt="Hozan logo" width="72" />
+<img src="./hozan-logo.svg" alt="Hozan logo" width="72" />
 
 # Hozan
 
-**Full-Stack & Cloud Developer** · Computer Science @ Université Laval · Quebec, Canada
+**Full-Stack & Cloud Developer** · Computer Science @ Université Laval · Quebec City, Canada
 
 </div>
 
@@ -30,13 +30,13 @@ Three years in the Quebec public service across cloud and software development �
 **Web**
 
 <p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet" alt="Web" height="48" /></a> <img src="./icons/blazor.svg" alt="Blazor" title="Blazor" width="48" height="48" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet" alt="Web" height="48" /></a> <img src="./blazor.svg" alt="Blazor" title="Blazor" width="48" height="48" />
 </p>
 
 **Cloud & DevOps**
 
 <p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,terraform,docker,git,azure,linux" alt="Cloud & DevOps" height="48" /></a> <img src="./icons/azuredevops.svg" alt="Azure DevOps" title="Azure DevOps" width="48" height="48" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,terraform,docker,git,azure,linux" alt="Cloud & DevOps" height="48" /></a> <img src="./azuredevops.svg" alt="Azure DevOps" title="Azure DevOps" width="48" height="48" />
 </p>
 
 **Databases**
@@ -46,7 +46,7 @@ Three years in the Quebec public service across cloud and software development �
 **Machine Learning**
 
 <p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="Machine Learning" height="48" /></a> <img src="./icons/numpy.svg" alt="NumPy" title="NumPy" width="48" height="48" /> <img src="./icons/pandas.svg" alt="pandas" title="pandas" width="48" height="48" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="Machine Learning" height="48" /></a> <img src="./numpy.svg" alt="NumPy" title="NumPy" width="48" height="48" /> <img src="./pandas.svg" alt="pandas" title="pandas" width="48" height="48" />
 </p>
 
 ### 💼 Experience
