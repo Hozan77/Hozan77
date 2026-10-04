@@ -4,7 +4,7 @@
 
 # Hozan
 
-**Full-Stack & Cloud Developer** · Computer Science @ Université Laval · Quebec City, Canada
+**Full-Stack & Cloud Developer** · Computer Science @ Université Laval · Quebec, Canada
 
 </div>
 
@@ -52,11 +52,9 @@ Three years in the Quebec public service across cloud and software development �
 ### 💼 Experience
 
 **Cloud Developer** — Quebec Ministry of Cybersecurity and Digital Technology · *2024 – Present*
-Automating the deployment and hosting of government services on AWS, from development all the way to production.
 `AWS` `Terraform` `Docker` `CI/CD` `Azure DevOps` `Artifactory`
 
 **Full-Stack Developer** — Quebec Ministry of Justice · *2023 – 2024*
-Built a monitoring dashboard end to end, from the database to the frontend, shipped to production and used daily.
 `C#` `.NET` `Blazor` `Entity Framework` `SQL` `Azure Functions` `Azure DevOps`
 
 ### 📚 Education & certifications
